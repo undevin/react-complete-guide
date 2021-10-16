@@ -1,0 +1,1 @@
+jsonFeed({"country":"US","state":"TX","stateName":"Texas","zipcode":"78704","timezone":"America/Chicago","latitude":"30.24230","longitude":"-97.76720","city":"Austin","continent":"NA"});
